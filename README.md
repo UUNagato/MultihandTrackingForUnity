@@ -3,6 +3,9 @@ This repo is an Android plugin of multihand tracking for Unity based on Mediapip
 
 Google mediapipe: https://github.com/google/mediapipe
 
+# Update 2020.6.24
+# Please notice that it's not working now. I will try to make it work ASAP.
+
 # Update 2020.4.1
 Repo set up. The plugin itself has no function except a test string function and a static library load function.
 
